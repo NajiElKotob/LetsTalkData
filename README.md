@@ -15,7 +15,15 @@ Power BI is an advanced and integrated self-service business intelligence system
 **Personalization**
 - Every department and user can get a personalized view of the relative business metrics.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+```
+Power BI empowers everyone with relevant and timely insights, 
+it supports businesses in their decision-making process and 
+provides a simplified and effective holistic view of the whole 
+organisation. Power BI is a must for any business to thrive.
+```
+
+----
+
 
 ### Markdown
 
