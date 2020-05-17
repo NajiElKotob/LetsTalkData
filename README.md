@@ -17,6 +17,10 @@ provides a simplified and effective holistic view of the whole
 organisation. Power BI is a must for any business to thrive.
 ```
 
+## Request a Free Consultation
+* [Fill a simple form]()
+* [Chat with Us](https://bit.ly/letstalkdatachat)
+
 ----
 
 
