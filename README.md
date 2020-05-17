@@ -10,12 +10,8 @@ Power BI is an advanced and integrated self-service business intelligence system
 - Personalization | Every department and user can get a personalized view of the relative business metrics.
 
 
-```
-Power BI empowers everyone with relevant and timely insights, 
-it supports businesses in their decision-making process and 
-provides a simplified and effective holistic view of the whole 
-organisation. Power BI is a must for any business to thrive.
-```
+`Power BI empowers everyone with relevant and timely insights, it supports businesses in their decision-making process and provides a simplified and effective holistic view of the whole organisation. Power BI is a must for any business to thrive.
+`
 
 ### Request a Free Consultation
 * [Fill a simple form]()
