@@ -3,24 +3,12 @@
 ### What Power BI can do for your business?
 Power BI is an advanced and integrated self-service business intelligence system for analyzing data and presenting actionable information to help corporate executives, business managers and other end users make more informed business decisions.
 
-```
-Complete Insights
-Informed Decision
-Anydata, Anywhere, Anytime
-Personalization
-```
 
-**Complete Insights**
-- Power BI provide a comprehensive view of the whole business with advanced analysis.
+- Complete Insights | Power BI provide a comprehensive view of the whole business with advanced analysis.
+- Informed Decision | Reduce risks, increase opportunities and unlock insights to drive smart informed decisions.
+- Anydata, Anywhere, Anytime | With the mobile apps and web portal, users can stay informed and get instant insights.
+- Personalization | Every department and user can get a personalized view of the relative business metrics.
 
-**Informed Decision**
-- Reduce risks, increase opportunities and unlock insights to drive smart informed decisions.
-
-**Anydata, Anywhere, Anytime**
-- With the mobile apps and web portal, users can stay informed and get instant insights.
-
-**Personalization**
-- Every department and user can get a personalized view of the relative business metrics.
 
 ```
 Power BI empowers everyone with relevant and timely insights, 
