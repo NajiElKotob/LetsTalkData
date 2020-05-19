@@ -12,6 +12,15 @@ Power BI is an advanced and integrated self-service business intelligence system
 
 `Power BI empowers everyone with relevant and timely insights, it supports businesses in their decision-making process and provides a simplified and effective holistic view of the whole organisation. Power BI is a must for any business to thrive.
 `
+----
+
+### Services
+1. Excel to Power BI
+1. Web to Power BI
+1. SQL Server to Power BI
+1. Any Data to Power BI
+
+----
 
 ### Request a Free Consultation
 * [Fill a simple form](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAAIIIemFURjROT1lEQU02M1FaNEpaM1ZTRFlOUzJKNy4u) - Any Data to Power BI
