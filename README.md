@@ -9,18 +9,6 @@ Power BI is an advanced and integrated self-service business intelligence system
 - Anydata, Anywhere, Anytime | With the mobile apps and web portal, users can stay informed and get instant insights.
 - Personalization | Every department and user can get a personalized view of the relative business metrics.
 
-
-`Power BI empowers everyone with relevant and timely insights, it supports businesses in their decision-making process and provides a simplified and effective holistic view of the whole organisation. Power BI is a must for any business to thrive.
-`
-
-----
-
-### Services
-1. Excel to Power BI
-1. Web to Power BI
-1. SQL Server to Power BI
-1. Any Data to Power BI
-
 ----
 
 ### Request a Free Consultation
@@ -28,5 +16,17 @@ Power BI is an advanced and integrated self-service business intelligence system
 * [Chat with Us](https://bit.ly/letstalkdatachat)
 
 ----
+
+
+`Power BI empowers everyone with relevant and timely insights, it supports businesses in their decision-making process and provides a simplified and effective holistic view of the whole organisation. Power BI is a must for any business to thrive.
+`
+
+
+### Services
+1. Excel to Power BI
+1. Web to Power BI
+1. SQL Server to Power BI
+1. Any Data to Power BI
+
 
 
