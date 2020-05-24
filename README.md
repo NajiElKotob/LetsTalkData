@@ -27,6 +27,9 @@ Power BI empowers everyone with relevant and timely insights, it supports busine
 1. Excel to Power BI
 1. Web to Power BI
 1. SQL Server to Power BI
+1. Access to Power BI
+1. PDF to Power BI
+1. JSON/XML to Power BI
 1. Any Data to Power BI
 
 
