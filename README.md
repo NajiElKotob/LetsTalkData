@@ -23,7 +23,7 @@ Power BI empowers everyone with relevant and timely insights, it supports busine
 
 
 ### Our Services
-
+#### Interactive Dashboards
 1. Excel to Power BI
 1. Web to Power BI
 1. SQL Server to Power BI
@@ -32,5 +32,9 @@ Power BI empowers everyone with relevant and timely insights, it supports busine
 1. JSON/XML to Power BI
 1. Any Data to Power BI
 
-
+#### KPI Dashboards
+1. Government budget
+1. Financial services
+1. Hospitality
+1. Healthcare
 
