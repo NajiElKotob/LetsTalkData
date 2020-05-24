@@ -27,6 +27,8 @@ Power BI empowers everyone with relevant and timely insights, it supports busine
 1. Excel to Power BI
 1. Web to Power BI
 1. SQL Server to Power BI
+1. SAP to Power BI
+1. Oracle to Power BI
 1. Access to Power BI
 1. PDF to Power BI
 1. JSON/XML to Power BI
@@ -37,4 +39,4 @@ Power BI empowers everyone with relevant and timely insights, it supports busine
 1. Financial services
 1. Hospitality
 1. Healthcare
-
+1. Customer Relationship Management (CRM)
