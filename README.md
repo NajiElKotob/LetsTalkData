@@ -27,6 +27,7 @@ Power BI empowers everyone with relevant and timely insights, it supports busine
 1. Excel to Power BI
 1. Web to Power BI
 1. SQL Server to Power BI
+1. Azure to Power BI
 1. SAP to Power BI
 1. Oracle to Power BI
 1. Access to Power BI
@@ -34,9 +35,28 @@ Power BI empowers everyone with relevant and timely insights, it supports busine
 1. JSON/XML to Power BI
 1. Any Data to Power BI
 
-#### KPI Dashboards
+<!--
+#### KPI Dashboards (Function)
+1. Logistics
+1. Manufacturing
+1. Retail
+1. Management
+1. Finance
+1. Sales
+1. Marketing
+1. Human Resources
+1. Customer Service & Support
+1. Procurement
+1. Information Technology (IT)
+1. Customer Relationship Management (CRM)
+#### KPI Dashboards (Industry)
+1. Car & Automobile Sales
+1. Education
 1. Government budget
 1. Financial services
-1. Hospitality
 1. Healthcare
-1. Customer Relationship Management (CRM)
+1. Hospitality
+1. Insurance
+1. Oil & Gas Exploration & Production
+1. Tourism
+-->
