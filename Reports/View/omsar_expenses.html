@@ -12,7 +12,15 @@
   <p id="output"></p>
   <script>
     var md = new MobileDetect(window.navigator.userAgent);
-    document.getElementById("output").innerHTML =  md.mobile();
+    var is_mobile = md.mobile() !== null; // undefined !== null // true
+    
+    if(is_mobile) {
+      document.getElementById("output").innerHTML =  'Yap, it\'s a mobile';
+    }
+    else{
+      document.getElementById("output").innerHTML =  'Nap, it\'s a desktop';
+    }
+    
     
 </script>
 </body>
