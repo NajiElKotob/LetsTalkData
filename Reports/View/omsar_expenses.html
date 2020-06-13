@@ -4,9 +4,16 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mobile-detect/1.4.4/mobile-detect.min.js"></script>
   <title>OMSAR Expenses</title>
 </head>
 <body>
   <h1>OMSAR Expenses</h1>
+  <p id="output"></p>
+  <script>
+    var md = new MobileDetect(window.navigator.userAgent);
+    document.getElementById("output").innerHTML =  md.mobile();
+    
+</script>
 </body>
 </html>
