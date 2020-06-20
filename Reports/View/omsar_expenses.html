@@ -5,27 +5,37 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/mobile-detect/1.4.4/mobile-detect.min.js"></script>
-  <title>OMSAR Expenses</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.slim.min.js" integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs=" crossorigin="anonymous"></script>
+  <title>OMSAR Expenses | Naji El Kotob</title>
 </head>
 <body>
-  <h1>OMSAR Expenses</h1>
-  <p id="output"></p>
-  <script>
-    var md = new MobileDetect(window.navigator.userAgent);
-    var is_mobile = md.mobile() !== null; // undefined !== null // true
-    var reportUrl = 'https://app.powerbi.com/view?r=eyJrIjoiMGVkN2IwNWQtNzQ1Yi00OTMxLWIyMDctNzUwMzMxOTQ1NjIwIiwidCI6Ijc3ZTkyYWY0LTQwYjEtNGVjMy1iODE3LTI3NDE4NWQ4OWQyYiIsImMiOjl9&pageName=';
-    var reportSection = 'ReportSectionb73174d4078d490865c8';
-    
-    if(is_mobile) {
-      //document.getElementById("output").innerHTML =  'Hi, I\'m a mobile';
-      window.location.replace(reportUrl + reportSection);
-    }
-    else{
-      //document.getElementById("output").innerHTML =  'Hi, I\'m a desktop';
-      window.location.replace(reportUrl);
-    }
-    
-    
-</script>
+  <!-- <h1>OMSAR Expenses</h1> -->
+  <!-- <p id="output"></p> -->
+
+  <iframe id="ifrm" width="100%" height="" src="" frameborder="0" allowFullScreen="true"></iframe>
+	<script>
+	    $( document ).ready(function() {
+		    var md = new MobileDetect(window.navigator.userAgent);
+		    var is_mobile =  md.mobile() !== null; // undefined !== null // true
+		    var reportUrl = 'https://app.powerbi.com/view?r=eyJrIjoiMGVkN2IwNWQtNzQ1Yi00OTMxLWIyMDctNzUwMzMxOTQ1NjIwIiwidCI6Ijc3ZTkyYWY0LTQwYjEtNGVjMy1iODE3LTI3NDE4NWQ4OWQyYiIsImMiOjl9&pageName=';
+		    var reportSection = 'ReportSectionb73174d4078d490865c8';
+
+		    var ifrm = document.getElementById('ifrm');
+			 
+
+			if(is_mobile) {
+		      //document.getElementById("output").innerHTML =  'Hi, I\'m a mobile';
+		      //window.location.replace(reportUrl + reportSection);
+		     ifrm.src = reportUrl + reportSection;
+		     ifrm.height = "1256";
+		    }
+		    else{
+		      //document.getElementById("output").innerHTML =  'Hi, I\'m a desktop';
+		      //window.location.replace(reportUrl);
+		       ifrm.src = reportUrl;
+		       ifrm.height = "600";
+		    }
+		});
+	</script>
 </body>
 </html>
