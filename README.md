@@ -8,7 +8,7 @@ Power BI is an advanced and integrated self-service business intelligence system
 ----
 
 ### Request a Free Consultation
-* [Fill in a simple form](https://forms.office.com/Pages/ResponsePage.aspx?id=9Crpd7FAw064FydBhdidK8IoBJLFUcdArdkNeLqkzSpUOEg3UUQ2OVlVOTNUMUJaRDUxVEk2RjhJWS4u) - Let's Talk Data with Power BI
+* [Fill in a quick form](https://forms.office.com/Pages/ResponsePage.aspx?id=9Crpd7FAw064FydBhdidK8IoBJLFUcdArdkNeLqkzSpUOEg3UUQ2OVlVOTNUMUJaRDUxVEk2RjhJWS4u) - Let's Talk Data with Power BI
 * [Chat with Us](https://bit.ly/letstalkdatachat)
 
 ----
