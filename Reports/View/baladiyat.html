@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="author" content="Naji El Kotob">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Baladiyat | Naji El Kotob</title>
+
+  <style type="text/css"> 
+        html { 
+            overflow: auto; 
+        } 
+          
+        html, 
+        body, 
+        div, 
+        iframe { 
+            margin: 0px; 
+            padding: 0px; 
+            height: 100%; 
+            border: none; 
+        } 
+          
+        iframe { 
+            display: block; 
+            width: 100%; 
+            border: none; 
+            overflow-y: auto; 
+            overflow-x: hidden; 
+        } 
+    </style> 
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mobile-detect/1.4.4/mobile-detect.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.slim.min.js" integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs=" crossorigin="anonymous"></script>
+</head>
+<body>
+  <iframe id="ifrm" width="100%" height="" src=""  
+  			allowFullScreen="true"
+ 			frameborder="0" 
+            marginheight="0" 
+            marginwidth="0" 
+            width="100%" 
+            height="100%" 
+            scrolling="auto"></iframe>
+	<script>
+	    $( document ).ready(function() {
+		    var md = new MobileDetect(window.navigator.userAgent);
+		    var is_mobile =  md.mobile() !== null; // undefined !== null // true
+		    var reportUrl = 'https://app.powerbi.com/view?r=&pageName=';
+		    var reportSection = 'ReportSection';
+		    var ifrm = document.getElementById('ifrm');
+		    
+		    if(is_mobile) {
+		     ifrm.src = reportUrl + reportSection;
+		    }
+		    else{
+		      ifrm.src = reportUrl;
+		    }
+		});
+	</script>
+</body>
+</html>
