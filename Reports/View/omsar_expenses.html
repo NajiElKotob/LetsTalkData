@@ -30,54 +30,14 @@
             overflow-x: hidden; 
         } 
 	
-	.button {
-	  display: inline-block;
-	  border-radius: 4px;
-	  background-color: #f4511e;
-	  border: none;
-	  color: #FFFFFF;
-	  text-align: center;
-	  font-size: 28px;
-	  padding: 20px;
-	  width: 200px;
-	  transition: all 0.5s;
-	  cursor: pointer;
-	  margin: 5px;
-	}
-
-	.button span {
-	  cursor: pointer;
-	  display: inline-block;
-	  position: relative;
-	  transition: 0.5s;
-	}
-
-	.button span:after {
-	  content: '\00bb';
-	  position: absolute;
-	  opacity: 0;
-	  top: 0;
-	  right: -20px;
-	  transition: 0.5s;
-	}
-
-	.button:hover span {
-	  padding-right: 25px;
-	}
-
-	.button:hover span:after {
-	  opacity: 1;
-	  right: 0;
-	}
+	
     </style> 
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/mobile-detect/1.4.4/mobile-detect.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.slim.min.js" integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs=" crossorigin="anonymous"></script>
 </head>
 <body>
-  <div>
-	  <h3 id="switchTo"></h3>
-  </div>
+
   <iframe id="ifrm" width="100%" height="" src=""  
   			allowFullScreen="true"
  			frameborder="0" 
@@ -96,16 +56,16 @@
 		    var ifrm = document.getElementById('ifrm');
 		    
 		    if(is_mobile) {
-	             $("#switchTo").text("Mobile View");
+	             
 		     ifrm.src = reportUrl + reportSectionMobile;
 		    }
 		    else{
-		      $("#switchTo").text("Desktop View");    
+		      
 		      ifrm.src = reportUrl + reportSectionDesktop;
 		    }
 		});
 		
-		$('#switchTo').delay(5000).fadeOut('slow');
+		
 
 	</script>
 </body>
