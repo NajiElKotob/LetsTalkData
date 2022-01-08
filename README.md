@@ -37,7 +37,7 @@ Power BI empowers everyone with relevant and timely insights, it supports busine
 1. Retail & eCommerce KPIs
 1. Product Management KPIs
 1. SaaS KPIs
-[For more information](https://github.com/NajiElKotob/Awesome-KPIs/)
+* [For more information](https://github.com/NajiElKotob/Awesome-KPIs/)
 
 #### Any data to Interactive Dashboards
 1. Excel to Power BI
