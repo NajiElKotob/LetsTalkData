@@ -21,7 +21,25 @@ Power BI empowers everyone with relevant and timely insights, it supports busine
 
 
 ### Our Services
-#### Interactive Dashboards
+#### KPI Dashboards (Function)
+1. Logistics KPIs
+1. Manufacturing KPIs
+1. Retail KPIs
+1. Management KPIs
+1. Financial KPIs
+1. Human Resources KPIs
+1. Sales KPIs
+1. Marketing KPIs
+1. Customer Service & Support KPIs
+1. Procurement KPIs
+1. Information Technology (IT)
+1. Customer Relationship Management (CRM) KPIs
+1. Retail & eCommerce KPIs
+1. Product Management KPIs
+1. SaaS KPIs
+[For more information](https://github.com/NajiElKotob/Awesome-KPIs/)
+
+#### Any data to Interactive Dashboards
 1. Excel to Power BI
 1. Web to Power BI
 1. SQL Server to Power BI
@@ -34,19 +52,6 @@ Power BI empowers everyone with relevant and timely insights, it supports busine
 1. Any Data to Power BI
 
 <!--
-#### KPI Dashboards (Function)
-1. Logistics
-1. Manufacturing
-1. Retail
-1. Management
-1. Finance
-1. Sales
-1. Marketing
-1. Human Resources
-1. Customer Service & Support
-1. Procurement
-1. Information Technology (IT)
-1. Customer Relationship Management (CRM)
 #### KPI Dashboards (Industry)
 1. Car & Automobile Sales
 1. Education
