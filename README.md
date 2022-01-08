@@ -52,6 +52,7 @@ Power BI empowers everyone with relevant and timely insights, it supports busine
 1. PDF to Power BI
 1. JSON/XML to Power BI
 1. Google Analytics to Power BI
+1. Google Sheets to Power BI
 1. Any Data to Power BI
 
 <!--
